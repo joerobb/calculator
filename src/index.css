@@ -11,3 +11,39 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h1 {
+margin: 2rem;
+}
+
+
+p {
+  font-size: 20px;
+  margin: auto;
+}
+
+button {
+color: #fff;
+background-color: #301934;
+padding:20px;
+border: #000;
+width: 5rem;
+}
+
+.result {
+  width: 20rem;
+  height: 4rem;
+  background-color: 	#E2E6FA;
+}
+
+.buttonRow {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 50px;
+}
+
+.wider {
+  width: 20rem;
+  background-color: #800080;
+}
