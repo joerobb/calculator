@@ -2,14 +2,6 @@ import React, { Component } from "react";
 
 class Buttons extends Component {
 
-//   state = {
-//     value: ''
-//   };
-//
-// handleValueChange = (e) => {
-//   this.setState({ value: e.target.value });
-// }
-//
 
   render() {
     // console.log(this.state.value)
